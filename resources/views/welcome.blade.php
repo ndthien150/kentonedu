@@ -78,6 +78,7 @@
                 </div>
             @endif
 
+            <div class="container"><img class="img-fluid" src="{{asset('images/bomb_PNG26.png')}}"></img></div>
             <div class="content">
                 <div class="title m-b-md">
                     Laravel
