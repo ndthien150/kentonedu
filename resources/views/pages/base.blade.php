@@ -264,16 +264,16 @@
                     </div>
                     <div class="header-right">
                         <div class="search">
-                            <a href="https://usis.us/tim-kiem">
+                            <a href="#/tim-kiem">
                                 <i class="fa fa-search"></i>
                             </a>
                         </div>
                         <div class="link">
-                            <a href="https://usis.us/cau-hoi-thuong-gap/cau-hoi-chung">Q&amp;A</a>
+                            <a href="#/cau-hoi-thuong-gap/cau-hoi-chung">Q&amp;A</a>
                         </div>
                         <div class="language">
-                            <a href="https://usis.us/" class="active">Vi</a> -
-                            <a href="https://usis.us/en"> En </a>
+                            <a href="#/" class="active">Vi</a> -
+                            <a href="#/en"> En </a>
                         </div>
                     </div>
                 </div>
@@ -319,16 +319,16 @@
                                     <a href="#dich-vu/dich-vu-kenton-2">Tư vấn dịch vụ kenton 2</a>
                                 </li>
                                 <li class="has-child">
-                                    <a href="https://usis.us/dich-vu/dich-vu-an-cu">Dịch vụ an cư</a>
+                                    <a href="#/dich-vu/dich-vu-an-cu">Dịch vụ tư vấn</a>
                                     <ul class="submenu2">
                                         <li>
-                                            <a href="https://usis.us/dich-vu/dich-vu-an-cu/gioi-thieu-an-cu">Giới thiệu</a>
+                                            <a href="#/dich-vu/dich-vu-an-cu/gioi-thieu-an-cu">Giới thiệu</a>
                                         </li>
                                         <li>
-                                            <a href="https://usis.us/dich-vu/dich-vu-an-cu/doi-tac-an-cu">Đối tác an cư</a>
+                                            <a href="#/dich-vu/dich-vu-an-cu/doi-tac-an-cu">Đối tác tư vấn</a>
                                         </li>
                                         <li>
-                                            <a href="https://usis.us/dich-vu/dich-vu-an-cu/hoat-dong-an-cu">Hoạt động an cư</a>
+                                            <a href="#/dich-vu/dich-vu-an-cu/hoat-dong-an-cu">Hoạt động tư vấn</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -336,71 +336,71 @@
                         </li>
 
                         <li class=" parent ">
-                            <a href="https://usis.us/du-an-dau-tu-eb-5" class="parent">Dự án</a>
+                            <a href="#/du-an-dau-tu-kenton" class="parent">Dự án</a>
                             <ul>
                                 <li class="">
-                                    <a href="https://usis.us/du-an-dau-tu-eb-5">Dự án đang kêu gọi</a>
+                                    <a href="#/du-an-dau-tu-kenton">Dự án đang kêu gọi</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/du-an-dau-tu-eb-5#du_an_da_het_suat">Dự án đã hết suất</a>
+                                    <a href="#/du-an-dau-tu-eb-5#du_an_da_het_suat">Dự án đã hết suất</a>
                                 </li>
                             </ul>
                         </li>
 
                         <li class="">
-                            <a href="https://usis.us/doi-tac">Đối tác</a>
+                            <a href="#/doi-tac">Đối tác</a>
                         </li>
 
                     </ul>
                     <ul class="mainmenu pull-right">
                         <li class=" parent ">
-                            <a href="https://usis.us/su-kien/hoat-dong-usis" class="parent">Sự kiện</a>
+                            <a href="#/su-kien/hoat-dong-usis" class="parent">Sự kiện</a>
                             <ul>
                                 <li class="">
-                                    <a href="https://usis.us/su-kien/hoat-dong-usis">Hoạt động USIS</a>
+                                    <a href="#/su-kien/hoat-dong-usis">Hoạt động KENTON</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/su-kien/trach-nhiem-cong-dong">Trách nhiệm cộng đồng</a>
+                                    <a href="#/su-kien/trach-nhiem-cong-dong">Trách nhiệm cộng đồng</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/su-kien/video-usis">Video USIS</a>
+                                    <a href="#/su-kien/video-usis">Video KENTON</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/su-kien/goc-bao-chi">Góc báo chí</a>
+                                    <a href="#/su-kien/goc-bao-chi">Góc báo chí</a>
                                 </li>
                             </ul>
                         </li>
 
                         <li class=" parent ">
-                            <a href="https://usis.us/tin-tuc-usis" class="parent">Tin tức</a>
+                            <a href="#/tin-tuc-usis" class="parent">Tin tức</a>
                             <ul>
                                 <li class="">
-                                    <a href="https://usis.us/tin-tuc-usis/tin-tuc-my">Tin tức Mỹ</a>
+                                    <a href="#/tin-tuc-usis/tin-tuc-my">Tin tức Du học</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/tin-tuc-usis/tin-di-tru-my">Tin di trú Mỹ</a>
+                                    <a href="#/tin-tuc-usis/tin-di-tru-my">Tin du học</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/cuoc-song-tai-my">Cuộc sống tại Mỹ</a>
+                                    <a href="#/cuoc-song-tai-my">Cuộc sống khi du học</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/huong-dan-dinh-cu-hoa-ky">Hướng dẫn định cư Mỹ</a>
+                                    <a href="#/huong-dan-dinh-cu-hoa-ky">Hướng dẫn đi du học</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/luat-di-tru">Luật di trú</a>
+                                    <a href="#/luat-di-tru">Hồ sơ</a>
                                 </li>
                                 <li class="">
-                                    <a href="https://usis.us/tin-tuc-usis/tuyen-dung">Tuyển dụng</a>
+                                    <a href="#/tin-tuc-usis/tuyen-dung">Tuyển dụng</a>
                                 </li>
                             </ul>
                         </li>
 
                         <li class="">
-                            <a href="https://usis.us/cam-nhan-khach-hang">Khách hàng</a>
+                            <a href="#/cam-nhan-khach-hang">Khách hàng</a>
                         </li>
 
                         <li class="">
-                            <a href="https://usis.us/lien-he">Liên hệ</a>
+                            <a href="#/lien-he">Liên hệ</a>
                         </li>
 
                     </ul>
@@ -586,7 +586,7 @@
                 <div class="logogroup">
                     <div class="row">
                         <div class="col-sm-2">
-                            <a href="https://usis.us/">
+                            <a href="#/">
                                 <img src="{{ asset('images/logo/LogoKenton-mini3.png')}}" alt="">
                             </a>
                         </div>
@@ -594,7 +594,7 @@
                             <div class="row">
                                 <div class="col-sm-3 col-xs-6">
                                     <p class="logof">
-                                        <a href="https://usis.us/" target="_blank">
+                                        <a href="#/" target="_blank">
                                             <img src="images/f594a942e0be90-logousis3.png" alt="">
                                         </a>
                                     </p>
@@ -603,12 +603,12 @@
                                     </p>
                                     <ul class="menu">
                                         <li>
-                                            <a href="https://usis.us/dich-vu/visa-dinh-cu-my-theo-dien-dau-tu-eb-5" target="_blank">
+                                            <a href="#/dich-vu/visa-dinh-cu-my-theo-dien-dau-tu-eb-5" target="_blank">
                                                 Tư vấn đầu tư định cư Mỹ EB-5
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://usis.us/dich-vu/visa-khong-dinh-cu-my-l-1" target="_blank">
+                                            <a href="#/dich-vu/visa-khong-dinh-cu-my-l-1" target="_blank">
                                                 Tư vấn thành lập doanh nghiệp tại Mỹ L-1
                                             </a>
                                         </li>
@@ -630,12 +630,12 @@
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://usis.us/" target="_blank">
+                                            <a href="#/" target="_blank">
                                                 Định hướng từ các chuyên gia
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="https://usis.us/" target="_blank">
+                                            <a href="#/" target="_blank">
                                                 Dịch vụ hỗ trợ
                                             </a>
                                         </li>
@@ -652,12 +652,12 @@
                                     </p>
                                     <ul class="menu">
                                         <li>
-                                            <a href="http://usis-re.us/bat-dong-san-nha-o" target="_blank">
+                                            <a href="#/bat-dong-san-nha-o" target="_blank">
                                                 Bất động sản nhà ở
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="http://usis-re.us/bat-dong-san-thuong-mai" target="_blank">
+                                            <a href="#/bat-dong-san-thuong-mai" target="_blank">
                                                 Bất động sản thương mại
                                             </a>
                                         </li>
@@ -674,12 +674,12 @@
                                     </p>
                                     <ul class="menu">
                                         <li>
-                                            <a href="http://fgvisa.vn/bo-dao-nha" target="_blank">
+                                            <a href="#/bo-dao-nha" target="_blank">
                                                 Bồ Đào Nha
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="http://fgvisa.vn/cong-hoa-sip" target="_blank">
+                                            <a href="#/cong-hoa-sip" target="_blank">
                                                 Cộng Hoà Síp
                                             </a>
                                         </li>
@@ -700,11 +700,11 @@
                 <div class="container">
                     <div class="copyright">All right reserved © KENTON education 2018.</div>
                     <div class="list-social">
-                        <a href="https://www.facebook.com/dautumy/" class="fb">
+                        <a href="#facebook kenton" class="fb">
                             <i class="fa fa-facebook-official"></i>
                         </a>
                         <!-- <a href="#" class="in"><i class="fa fa-instagram"></i></a> -->
-                        <a href="https://www.youtube.com/channel/UCCGhCV9sVnYczPh4lx9nXBg" class="you">
+                        <a href="#youtube Kenton" class="you">
                             <i class="fa fa-youtube"></i>
                         </a>
                     </div>
