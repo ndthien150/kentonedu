@@ -253,7 +253,7 @@
             <div id="panel">
                 <div class="container">
                     <div class="list-social">
-                        <a href="https://www.facebook.com/nguyen.d.thien.14" class="fb">
+                        <a href="https://www.facebook.com/kentonedu/" class="fb">
                             <i class="fa fa-facebook-f"></i>
                         </a>
                         <!-- <a href="#" class="in"><i class="fa fa-twitter"></i></a>
@@ -699,7 +699,7 @@
                 <div class="container">
                     <div class="copyright">All right reserved © KENTON education 2018.</div>
                     <div class="list-social">
-                        <a href="#facebook kenton" class="fb">
+                        <a href="https://www.facebook.com/kentonedu/" class="fb">
                             <i class="fa fa-facebook-official"></i>
                         </a>
                         <!-- <a href="#" class="in"><i class="fa fa-instagram"></i></a> -->
