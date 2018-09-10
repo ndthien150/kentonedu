@@ -258,7 +258,7 @@
                         </a>
                         <!-- <a href="#" class="in"><i class="fa fa-twitter"></i></a>
                                 <a href="#" class="you"><i class="fa fa-google-plus"></i></a> -->
-                        <a href="https://www.youtube.com/channel/UCCGhCV9sVnYczPh4lx9nXBg" class="you">
+                        <a href="kentonyoutube" class="you">
                             <i class="fa fa-youtube"></i>
                         </a>
                     </div>
