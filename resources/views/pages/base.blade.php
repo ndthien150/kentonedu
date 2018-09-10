@@ -492,14 +492,11 @@
                                 <p>Nếu Anh/Chị có bất kỳ thắc mắc về chương trình du học, vui lòng liên hệ với công ty
                                     kenton, chúng tôi sẵn sàng tiếp nhận và giải đáp tất cả các câu hỏi của Anh/Chị.</p>
 
-                                <p>Xin vui lòng liên hệ duhockenton@kentonedu.com hoặc điện thoại:</p>
-                                <p></p>
-                                <p></p>
-                                    <br>
-                                    <br> TP. Hồ Chí Minh: 
-                                    <br> Hà Nội: 
-                                    <br> Đà Nẵng: 
-                                    <br> Cần Thơ: </p>
+                                <p>Xin vui lòng liên hệ Công ty Du học Kenton:</p>
+                                <p></p>31A Hồ Biểu Chánh, Quận Phú Nhuận 
+                                    <br> duhockenton@kentonedu.com
+                                    <br> 0908 351 531 
+                                </p>
                                 <p></p>
                             </div>
                             <div class="col-sm-6 col-md-6" style="margin-top: 30px">

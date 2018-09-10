@@ -17,11 +17,11 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner">
                 <div class="item active">
-                    <img src="{{ asset('images/duhocKenton-slide1.jpg')}}" alt="Los Angeles">
+                    <img src="{{ asset('images/duhocKenton-slide1.jpg')}}" alt="Los Angeles" class="img-responsive">
                 </div>
 
                 <div class="item">
-                    <img src="{{ asset('images/duhocKenton-slider2.jpg')}}" alt="Chicago">
+                    <img src="{{ asset('images/duhocKenton-slider2.jpg')}}" alt="Chicago" class="img-responsive">
                 </div>
             </div>
 
