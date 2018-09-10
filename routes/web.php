@@ -11,6 +11,12 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [
+    'as' => 'home',
+    'uses' => 'HomeController@home'
+]);
+
+Route::get('gioi_thieu/{noi_dung}', [
+    'as' => 'about',
+    'uses' => 'HomeController@about'
+]);
