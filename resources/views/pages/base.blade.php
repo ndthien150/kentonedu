@@ -304,7 +304,7 @@
                                     <a href="{{ route('about', 'gioi_thieu')}}">Giới thiệu</a>
                                 </li>
                                 <li class="">
-                                    <a href="{{ route('about', 'tai_sao')}}">Tại sao chọn Usis?</a>
+                                    <a href="{{ route('about', 'tai_sao')}}">Tại sao chọn kenton?</a>
                                 </li>
                             </ul>
                         </li>
@@ -354,16 +354,16 @@
                     </ul>
                     <ul class="mainmenu pull-right">
                         <li class=" parent ">
-                            <a href="#/su-kien/hoat-dong-usis" class="parent">Sự kiện</a>
+                            <a href="#/su-kien/hoat-dong-kenton" class="parent">Sự kiện</a>
                             <ul>
                                 <li class="">
-                                    <a href="#/su-kien/hoat-dong-usis">Hoạt động KENTON</a>
+                                    <a href="#/su-kien/hoat-dong-kenton">Hoạt động KENTON</a>
                                 </li>
                                 <li class="">
                                     <a href="#/su-kien/trach-nhiem-cong-dong">Trách nhiệm cộng đồng</a>
                                 </li>
                                 <li class="">
-                                    <a href="#/su-kien/video-usis">Video KENTON</a>
+                                    <a href="#/su-kien/video-kenton">Video KENTON</a>
                                 </li>
                                 <li class="">
                                     <a href="#/su-kien/goc-bao-chi">Góc báo chí</a>
@@ -372,13 +372,13 @@
                         </li>
 
                         <li class=" parent ">
-                            <a href="#/tin-tuc-usis" class="parent">Tin tức</a>
+                            <a href="#/tin-tuc-kenton" class="parent">Tin tức</a>
                             <ul>
                                 <li class="">
-                                    <a href="#/tin-tuc-usis/tin-tuc-my">Tin tức Du học</a>
+                                    <a href="#/tin-tuc-kenton/tin-tuc-my">Tin tức Du học</a>
                                 </li>
                                 <li class="">
-                                    <a href="#/tin-tuc-usis/tin-di-tru-my">Tin du học</a>
+                                    <a href="#/tin-tuc-kenton/tin-di-tru-my">Tin du học</a>
                                 </li>
                                 <li class="">
                                     <a href="#/cuoc-song-tai-my">Cuộc sống khi du học</a>
@@ -390,7 +390,7 @@
                                     <a href="#/luat-di-tru">Hồ sơ</a>
                                 </li>
                                 <li class="">
-                                    <a href="#/tin-tuc-usis/tuyen-dung">Tuyển dụng</a>
+                                    <a href="#/tin-tuc-kenton/tuyen-dung">Tuyển dụng</a>
                                 </li>
                             </ul>
                         </li>
@@ -418,7 +418,7 @@
 
                     <div class=" f03">
                         <h4>
-                            Vui lòng nhập thông tin để tải cẩm nang định cư Mỹ! </h4>
+                            Vui lòng nhập thông tin để tải cẩm nang tư vấn du học </h4>
                         <form accept-charset="UTF-8" action="" class="infusion-form"
                             id="inf_form_d782e26ff87249b4fb1999b0471b06e5" method="POST">
                             <input name="inf_form_xid" value="d782e26ff87249b4fb1999b0471b06e5" type="hidden">
@@ -489,23 +489,22 @@
                             <div class="col-sm-6 col-md-6">
                                 <h2 class="uppercase">Đăng ký tư vấn</h2>
                                 <p></p>
-                                <p>Nếu Anh/Chị có bất kỳ thắc mắc về chương trình đầu tư EB-5, vui lòng liên hệ với công ty
-                                    USIS, chúng tôi sẵn sàng tiếp nhận và giải đáp tất cả các câu hỏi của Anh/Chị.</p>
+                                <p>Nếu Anh/Chị có bất kỳ thắc mắc về chương trình du học, vui lòng liên hệ với công ty
+                                    kenton, chúng tôi sẵn sàng tiếp nhận và giải đáp tất cả các câu hỏi của Anh/Chị.</p>
 
-                                <p>Xin vui lòng liên hệ info@usis.us hoặc điện thoại:</p>
+                                <p>Xin vui lòng liên hệ duhockenton@kentonedu.com hoặc điện thoại:</p>
                                 <p></p>
                                 <p></p>
-                                <p>Mỹ (California): (+1) 657 600 8242
-                                    <br> Mỹ (Atlanta): ‎‎(+1) 678 468 4580
-                                    <br> TP. Hồ Chí Minh: 0909 337 657
-                                    <br> Hà Nội: 0909 337 647
-                                    <br> Đà Nẵng: 0903 144 586
-                                    <br> Cần Thơ: 0909 339 786</p>
+                                    <br>
+                                    <br> TP. Hồ Chí Minh: 
+                                    <br> Hà Nội: 
+                                    <br> Đà Nẵng: 
+                                    <br> Cần Thơ: </p>
                                 <p></p>
                             </div>
                             <div class="col-sm-6 col-md-6" style="margin-top: 30px">
                                 <!--      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.386769949894!2d106.70427251785604!3d10.78166041838211!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752f49355b9e3b%3A0x4035bc879a502570!2sThe+Nomad+Offices%2C+Gemadept+Tower!5e0!3m2!1svi!2s!4v1532420252707" width="375" height="300" frameborder="0" style="border:0" allowfullscreen></iframe> -->
-                                <!-- <iframe allowfullscreen="" src="T%C6%B0%20v%E1%BA%A5n%20%C4%91%E1%BA%A7u%20t%C6%B0%20%C4%91%E1%BB%8Bnh%20c%C6%B0%20M%E1%BB%B9%20theo%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BA%A7u%20t%C6%B0%20EB5%20%20%20USIS_files/embed.htm"
+                                <!-- <iframe allowfullscreen="" src="T%C6%B0%20v%E1%BA%A5n%20%C4%91%E1%BA%A7u%20t%C6%B0%20%C4%91%E1%BB%8Bnh%20c%C6%B0%20M%E1%BB%B9%20theo%20ch%C6%B0%C6%A1ng%20tr%C3%ACnh%20%C4%91%E1%BA%A7u%20t%C6%B0%20EB5%20%20%20kenton_files/embed.htm"
                                     style="border:0" width="375" height="300" frameborder="0"></iframe> -->
                                 <!-- Noi chua google emp map-->
                                 <div style="border:0;background-color:green;" width="375" height="300">Nơi chứa google map</div>
@@ -595,7 +594,7 @@
                                 <div class="col-sm-3 col-xs-6">
                                     <p class="logof">
                                         <a href="#/" target="_blank">
-                                            <img src="images/f594a942e0be90-logousis3.png" alt="">
+                                            <img src="images/f594a942e0be90-logokenton3.png" alt="">
                                         </a>
                                     </p>
                                     <p>
@@ -604,20 +603,20 @@
                                     <ul class="menu">
                                         <li>
                                             <a href="#/dich-vu/visa-dinh-cu-my-theo-dien-dau-tu-eb-5" target="_blank">
-                                                Tư vấn đầu tư định cư Mỹ EB-5
+                                                Tư vấn du học Mỹ
                                             </a>
                                         </li>
                                         <li>
                                             <a href="#/dich-vu/visa-khong-dinh-cu-my-l-1" target="_blank">
-                                                Tư vấn thành lập doanh nghiệp tại Mỹ L-1
+                                                Tư vấn du học Úc
                                             </a>
                                         </li>
                                     </ul>
                                 </div>
                                 <div class="col-sm-3 col-xs-6">
                                     <p class="logof">
-                                        <a href="http://usis-edu.us/" target="_blank">
-                                            <img src="images/46d4411cd8fbdf-logousis6.png" alt="">
+                                        <a href="http://kenton-edu.us/" target="_blank">
+                                            <img src="images/46d4411cd8fbdf-logokenton6.png" alt="">
                                         </a>
                                     </p>
                                     <p>
@@ -625,7 +624,7 @@
                                     </p>
                                     <ul class="menu">
                                         <li>
-                                            <a href="http://usis-edu.us/" target="_blank">
+                                            <a href="http://kenton-edu.us/" target="_blank">
                                                 Tư vấn du học Mỹ
                                             </a>
                                         </li>
@@ -643,8 +642,8 @@
                                 </div>
                                 <div class="col-sm-3 col-xs-6">
                                     <p class="logof">
-                                        <a href="http://usis-re.us/" target="_blank">
-                                            <img src="images/4626346844f40d-logousis4.png" alt="">
+                                        <a href="http://kenton-re.us/" target="_blank">
+                                            <img src="images/4626346844f40d-logokenton4.png" alt="">
                                         </a>
                                     </p>
                                     <p>
@@ -666,11 +665,11 @@
                                 <div class="col-sm-3 col-xs-6">
                                     <p class="logof">
                                         <a href="http://fgvisa.vn/" target="_blank">
-                                            <img src="images/dd69cc8ba636f0-logousis2.png" alt="">
+                                            <img src="images/dd69cc8ba636f0-logokenton2.png" alt="">
                                         </a>
                                     </p>
                                     <p>
-                                        <strong>Tư vấn đầu tư:</strong>
+                                        <strong>Tư vấn du học:</strong>
                                     </p>
                                     <ul class="menu">
                                         <li>
